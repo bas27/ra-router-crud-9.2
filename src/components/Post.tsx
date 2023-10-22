@@ -42,7 +42,7 @@ const Post = ({ post }: PostProps) => {
   return (
     <article className="post">
       <div className="author">
-        <img src="https://i.pravatar.cc/150?img=3" alt="" className="author__avatar" />
+        <img src="https://i.pravatar.cc/150" alt="" className="author__avatar" />
         <div>
           <a href="#/" className="author__name">
             Alexander B
